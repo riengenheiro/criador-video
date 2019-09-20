@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/riengenheiro/criador-video/issues"
   },
-  "homepage": "https://github.com/riengenheiro/criador-video#readme"
+  "homepage": "https://github.com/riengenheiro/criador-video#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
